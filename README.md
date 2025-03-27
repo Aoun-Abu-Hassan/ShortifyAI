@@ -325,7 +325,7 @@ ShortifyAI uses Firebase Authentication for user management. The application sup
 1. **Email/Password Authentication**
 
 1. Users can sign up with their email and password
-2. Password reset functionality is available
+2. Password reset functionality is available (coming soon)
 3. Email verification is supported
 
 
