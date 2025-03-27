@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shortifyai.com/sitemap.xml
+Sitemap: https://shortifyai.rsstudios.dev/sitemap.xml
 

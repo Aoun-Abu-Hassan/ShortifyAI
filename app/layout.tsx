@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://shortifyai.com",
+    url: "https://shortifyai.rsstudios.dev",
     title: "ShortifyAI - Intelligent URL Shortener with Analytics",
     description:
       "Create memorable, SEO-friendly short links with AI-powered intelligence. Track analytics and manage all your links in one place.",
@@ -55,7 +55,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="canonical" href="https://shortifyai.com" />
+        <link rel="canonical" href="https://shortifyai.rsstudios.dev" />
       </head>
       <body className={`${inter.className} min-h-screen bg-background antialiased`}>
         <ErrorBoundary>

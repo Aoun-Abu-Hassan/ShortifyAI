@@ -109,7 +109,7 @@ export function DomainSettings() {
   }
 
   const handleCopyDnsRecord = () => {
-    navigator.clipboard.writeText("CNAME record: links.shortifyai.com")
+    navigator.clipboard.writeText("CNAME record: links.shortifyai.rsstudios.dev")
     toast({
       title: "Copied to clipboard",
       description: "DNS record has been copied to your clipboard.",
@@ -226,7 +226,7 @@ export function DomainSettings() {
             <ol className="ml-4 list-decimal text-sm text-muted-foreground">
               <li>Add a CNAME record to your domain's DNS settings</li>
               <li>
-                Point it to <code className="bg-muted px-1 py-0.5 rounded">links.shortifyai.com</code>
+                Point it to <code className="bg-muted px-1 py-0.5 rounded">links.shortifyai.rsstudios.dev</code>
               </li>
               <li>Wait for DNS propagation (can take up to 24 hours)</li>
               <li>We'll automatically verify your domain once it's properly configured</li>
@@ -236,7 +236,7 @@ export function DomainSettings() {
                 <Copy className="mr-2 h-3 w-3" /> Copy DNS Record
               </Button>
               <Button variant="ghost" size="sm" asChild>
-                <a href="https://docs.shortifyai.com/custom-domains" target="_blank" rel="noopener noreferrer">
+                <a href="https://docs.shortifyai.rsstudios.dev/custom-domains" target="_blank" rel="noopener noreferrer">
                   <ExternalLink className="mr-2 h-3 w-3" /> View Documentation
                 </a>
               </Button>

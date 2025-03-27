@@ -177,7 +177,7 @@ export function IntegrationSettings() {
               </CardContent>
               <CardFooter className="flex justify-between border-t px-6 py-4">
                 <Button variant="ghost" size="sm" asChild>
-                  <a href="https://docs.shortifyai.com/api" target="_blank" rel="noopener noreferrer">
+                  <a href="https://docs.shortifyai.rsstudios.dev/api" target="_blank" rel="noopener noreferrer">
                     <ExternalLink className="mr-2 h-3 w-3" /> API Documentation
                   </a>
                 </Button>
@@ -252,7 +252,7 @@ export function IntegrationSettings() {
               </CardContent>
               <CardFooter className="flex justify-between border-t px-6 py-4">
                 <Button variant="ghost" size="sm" asChild>
-                  <a href="https://docs.shortifyai.com/webhooks" target="_blank" rel="noopener noreferrer">
+                  <a href="https://docs.shortifyai.rsstudios.dev/webhooks" target="_blank" rel="noopener noreferrer">
                     <ExternalLink className="mr-2 h-3 w-3" /> Webhook Documentation
                   </a>
                 </Button>

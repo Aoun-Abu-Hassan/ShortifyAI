@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shortifyai.com/</loc>
+    <loc>https://shortifyai.rsstudios.dev/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://shortifyai.com/login</loc>
+    <loc>https://shortifyai.rsstudios.dev/login</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shortifyai.com/signup</loc>
+    <loc>https://shortifyai.rsstudios.dev/signup</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shortifyai.com/features</loc>
+    <loc>https://shortifyai.rsstudios.dev/features</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://shortifyai.com/pricing</loc>
+    <loc>https://shortifyai.rsstudios.dev/pricing</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://shortifyai.com/blog</loc>
+    <loc>https://shortifyai.rsstudios.dev/blog</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://shortifyai.com/terms</loc>
+    <loc>https://shortifyai.rsstudios.dev/terms</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://shortifyai.com/privacy</loc>
+    <loc>https://shortifyai.rsstudios.dev/privacy</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
