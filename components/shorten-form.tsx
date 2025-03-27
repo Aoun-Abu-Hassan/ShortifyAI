@@ -144,7 +144,7 @@ export function ShortenForm() {
         shortUrl: newShortUrl,
         slug,
         userId: user ? user.uid : "anonymous",
-        createdAt: serverTimestamp(),
+        createdAt: new Date().toISOString(),
         clicks: 0,
         isAnonymous: !user,
         ipAddress: "", // In a real app, you'd get this from the server
